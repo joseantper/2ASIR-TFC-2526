@@ -24,7 +24,7 @@ La siguiente lista cuenta con los usuarios de GitHub del profesorado:
     - [Video final](https://)
    
 * **GRUPO 02: Infraestructura de Red con Servicios Integrados (IRSI)** - Daniel García y Nazaret Postigo
-    - [Anteproyecto](https://)
+    - [Anteproyecto](https://www.notion.so/Infraestructura-de-Red-con-Servicios-Integrados-IRSI-1cd22a25046780268668e404a4fac63e)
     - [Repositorio del proyecto](https://)
     - [Checkpoint](https://)
     - [Video final](https://)
@@ -42,7 +42,7 @@ La siguiente lista cuenta con los usuarios de GitHub del profesorado:
     - [Video final](https://)
    
 * **GRUPO 05: Sistema de Gestión de Reservas para Espacios Turísticos** - Fernando González y Moisés Alameda
-    - [Anteproyecto](https://)
+    - [Anteproyecto](https://resilient-agustinia-c6b.notion.site/1c0a1e94ddde80bfa276c88400e477ba?v=1c0a1e94ddde80ad8ba5000ce30a0ba1)
     - [Repositorio del proyecto](https://)
     - [Checkpoint](https://)
     - [Video final](https://)
@@ -54,7 +54,7 @@ La siguiente lista cuenta con los usuarios de GitHub del profesorado:
     - [Video final](https://)
    
 * **GRUPO 07: Plataforma web para consultas de precios de supermercados nacionales** - Alejandro Moreno y Tania Solera
-    - [Anteproyecto](https://)
+    - [Anteproyecto](https://lively-hydrogen-001.notion.site/PROYECTO-TFG-1cd8310700d18067809fd3a587767daf)
     - [Repositorio del proyecto](https://)
     - [Checkpoint](https://)
     - [Video final](https://)
