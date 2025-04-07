@@ -60,7 +60,7 @@ La siguiente lista cuenta con los usuarios de GitHub del profesorado:
     - [Video final](https://)
 
 * **GRUPO 08: SIN TÍTULO** - Alejandro González y Diego Juanes
-    - [Anteproyecto](https://)
+    - [Anteproyecto](https://three-croissant-db7.notion.site/CarFlex-Plataforma-de-Alquiler-de-Veh-culos-1c82b07bc14e80328702d86651dba47b)
     - [Repositorio del proyecto](https://)
     - [Checkpoint](https://)
     - [Video final](https://)
