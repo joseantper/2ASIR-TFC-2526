@@ -66,7 +66,7 @@ La siguiente lista cuenta con los usuarios de GitHub del profesorado:
     - [Video final](https://)
    
 * **GRUPO 09: Sistema de gestión de empleados para gestionar turnos y ausencias** - Manuel Fernández y Francisco Miguel Granados
-    - [Anteproyecto](https://)
+    - [Anteproyecto](https://serious-fog-7e1.notion.site/ANTEPROYECTO-ASIR-1c97a241c44e80d9939ec0735a4ad90e)
     - [Repositorio del proyecto](https://)
     - [Checkpoint](https://)
     - [Video final](https://)
