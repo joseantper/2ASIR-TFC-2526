@@ -30,13 +30,13 @@ La siguiente lista cuenta con los usuarios de GitHub del profesorado:
     - [Video final](https://)
    
 * **GRUPO 03: Sistema de Gestión de Flotas para Empresas de Transporte Local** - Jorge Zambrana y José Luis Hidalgo
-    - [Anteproyecto](https://)
+    - [Anteproyecto](https://wakeful-mandevilla-24c.notion.site/AnteProyecto-1c9eb6a2c81580d89d32fa0a7733f49f)
     - [Repositorio del proyecto](https://)
     - [Checkpoint](https://)
     - [Video final](https://)
    
 * **GRUPO 04: Despliegue de una red empresarial mediante Proxmox** - Arturo Simón y Samuel Ruiz
-    - [Anteproyecto](https://)
+    - [Anteproyecto](https://www.notion.so/Ante-Proyecto-Empresa-Proxmox-1c863dead450801db5faeb80fac2a81c)
     - [Repositorio del proyecto](https://)
     - [Checkpoint](https://)
     - [Video final](https://)
@@ -48,7 +48,7 @@ La siguiente lista cuenta con los usuarios de GitHub del profesorado:
     - [Video final](https://)
    
 * **GRUPO 06: Sistema de seguimiento de proyectos de una empresa** - Jorge Robles y José Antonio Salinas
-    - [Anteproyecto](https://)
+    - [Anteproyecto](https://boulder-addition-1e5.notion.site/Anteproyecto-Final-Asir-1cdd923b89a180398654ea04965436d0)
     - [Repositorio del proyecto](https://)
     - [Checkpoint](https://)
     - [Video final](https://)
