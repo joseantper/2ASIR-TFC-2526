@@ -37,7 +37,7 @@ La siguiente lista cuenta con los usuarios de GitHub del profesorado:
    
 * **GRUPO 04: Despliegue de una red empresarial mediante Proxmox** - Arturo Simón y Samuel Ruiz
     - [Anteproyecto](https://www.notion.so/Ante-Proyecto-Empresa-Proxmox-1c863dead450801db5faeb80fac2a81c)
-    - [Repositorio del proyecto](https://)
+    - [Repositorio del proyecto](https://github.com/sruisot473/Proyecto-Empresa-Proxmox)
     - [Checkpoint](https://)
     - [Video final](https://)
    
