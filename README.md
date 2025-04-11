@@ -43,7 +43,7 @@ La siguiente lista cuenta con los usuarios de GitHub del profesorado:
    
 * **GRUPO 05: Sistema de Gestión de Reservas para Espacios Turísticos** - Fernando González y Moisés Alameda
     - [Anteproyecto](https://resilient-agustinia-c6b.notion.site/1c0a1e94ddde80bfa276c88400e477ba?v=1c0a1e94ddde80ad8ba5000ce30a0ba1)
-    - [Repositorio del proyecto](https://)
+    - [Repositorio del proyecto](https://github.com/Fernandoo33/Sistema-de-Gestion-de-Reservas-para-Espacios-Turisticos)
     - [Checkpoint](https://)
     - [Video final](https://)
    
