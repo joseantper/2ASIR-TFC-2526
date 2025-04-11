@@ -19,7 +19,7 @@ La siguiente lista cuenta con los usuarios de GitHub del profesorado:
 
 * **GRUPO 01: Plataforma de e-learning con evaluaciones online** - Karol Serrano y Natalia Espinosa
     - [Anteproyecto](https://graceful-entree-f16.notion.site/Anteproyecto-1c885adf5ec380bf94eaf849fe450e4f)
-    - [Repositorio del proyecto](https://)
+    - [Repositorio del proyecto](https://github.com/nespgue0302/tfg_asir2025_NEG_KSM)
     - [Checkpoint](https://)
     - [Video final](https://)
    
