@@ -25,7 +25,7 @@ La siguiente lista cuenta con los usuarios de GitHub del profesorado:
    
 * **GRUPO 02: Infraestructura de Red con Servicios Integrados (IRSI)** - Daniel García y Nazaret Postigo
     - [Anteproyecto](https://www.notion.so/Infraestructura-de-Red-con-Servicios-Integrados-IRSI-1cd22a25046780268668e404a4fac63e)
-    - [Repositorio del proyecto](https://)
+    - [Repositorio del proyecto](https://github.com/danielbardi04/Proyecto_Final_ASIR-IRSI)
     - [Checkpoint](https://)
     - [Video final](https://)
    
