@@ -55,7 +55,7 @@ La siguiente lista cuenta con los usuarios de GitHub del profesorado:
    
 * **GRUPO 07: Plataforma web para consultas de precios de supermercados nacionales** - Alejandro Moreno y Tania Solera
     - [Anteproyecto](https://lively-hydrogen-001.notion.site/PROYECTO-TFG-1cd8310700d18067809fd3a587767daf)
-    - [Repositorio del proyecto](https://)
+    - [Repositorio del proyecto](https://github.com/TaniaSoleraLucena/TFG-AhorroTotal)
     - [Checkpoint](https://)
     - [Video final](https://)
 
