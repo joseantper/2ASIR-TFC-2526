@@ -49,7 +49,7 @@ La siguiente lista cuenta con los usuarios de GitHub del profesorado:
    
 * **GRUPO 06: Sistema de seguimiento de proyectos de una empresa** - Jorge Robles y José Antonio Salinas
     - [Anteproyecto](https://boulder-addition-1e5.notion.site/Anteproyecto-Final-Asir-1cdd923b89a180398654ea04965436d0)
-    - [Repositorio del proyecto](https://)
+    - [Repositorio del proyecto](https://github.com/Salinas45/proyecto-final)
     - [Checkpoint](https://)
     - [Video final](https://)
    
