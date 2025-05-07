@@ -79,7 +79,7 @@ La siguiente lista cuenta con los usuarios de GitHub del profesorado:
   
 ## 📝 Fechas a tener en cuenta
 * Anteproyecto: **7 de abril de 2025**
-* Revisión (checkpoint): **30 de abril de 2025**
+* Revisión (checkpoint): **4 de mayo de 2025**
 * Entrega de proyecto: **13 de junio de 2025**
 * Exposiciones: **semana del 16 al 20 de junio de 2025**
 
