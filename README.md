@@ -88,9 +88,18 @@ La siguiente lista cuenta con los usuarios de GitHub del profesorado:
 
 La fecha y hora de exposición del alumnado se comunicará a través de este canal. La duración de cada exposición será de **15 minutos** (10 de exposición y 5 de preguntas), dejando un margen de otros 5 minutos para el cambio. El alumnado deberá llegar con tiempo suficiente a su presentación. Aquellos alumnos que, durante el período de exposiciones, aún no hayan finalizado su FCT, asistirán al Centro únicamente para exponer su proyecto, debiendo regresar posteriormente a sus prácticas en la empresa.
 
-#### :calendar: lunes x de junio de 2025
+#### :calendar: lunes 16 de junio de 2025
 
-- [ ] 08:30h **Título del proyecto** - Alumno1 y Alumno2
+- [ ] 08:30h **Plataforma de e-learning con evaluaciones online** - Karol Serrano y Natalia Espinosa
+- [ ] 08:50h **Infraestructura de Red con Servicios Integrados (IRSI)** - Daniel García y Nazaret Postigo
+- [ ] 09:10h **Sistema de Gestión de Flotas para Empresas de Transporte Local** - Jorge Zambrana y José Luis Hidalgo
+- [ ] 09:30h **Despliegue de una red empresarial mediante Proxmox** - Arturo Simón y Samuel Ruiz
+- [ ] 09:50h **Sistema de Gestión de Reservas para Espacios Turísticos** - Fernando González y Moisés Alameda
+- [ ] 10:10h **Sistema de seguimiento de proyectos de una empresa** - Jorge Robles y José Antonio Salinas
+- [ ] 10:30h **Plataforma web para consultas de precios de supermercados nacionales** - Alejandro Moreno y Tania Solera
+- [ ] 10:50h **Plataforma de Alquiler de Vehículos** - Alejandro González y Diego Juanes
+- [ ] 12:00h **Sistema de gestión de empleados para gestionar turnos y ausencias** - Manuel Fernández y Francisco Miguel Granados
+- [ ] 12:20h **Sistema de Trazabilidad y Consulta de Orden Fabricación (STCOF)** - Miguel Ángel Serrano
 
 ---
 ## Guía para la presentación - apartados de la presentación
