@@ -1,5 +1,5 @@
 # Proyectos Final de Ciclo de 2º ASIR
-**curso 2024|25**
+**curso 2025|26**
 
 En este repositorio se encuentra centralizada toda la información relativa a los **Proyectos de Administración de Sistemas Informáticos en Red del CPIFP Alan Turing** (proyectos de fin de ciclo), en la convocatoria del curso 2024|25.
 
@@ -12,70 +12,30 @@ Tanto los criterios generales como los criterios particulares por cada módulo s
 La siguiente lista cuenta con los usuarios de GitHub del profesorado:
 * [José Antonio Pérez Alías](https://github.com/joseantper)
 * [Sergio Sánchez Martín](https://github.com/SergioSanchezMartin)
-* [Florindo López Delgado](https://github.com/florindofp)
 * [José David Quero Sánchez](https://github.com/josedavid-quero)
-* [Jesús Moreno Arjonilla](https://github.com/JMoreno97)
+* [Galina Georgieva Dimitrova](https://github.com/XXXXXX)
+
+
 ## Índice a los proyectos de cada alumno
 
-* **GRUPO 01: Plataforma de e-learning con evaluaciones online** - Karol Serrano y Natalia Espinosa
-    - [Anteproyecto](https://graceful-entree-f16.notion.site/Anteproyecto-1c885adf5ec380bf94eaf849fe450e4f)
-    - [Repositorio del proyecto](https://github.com/nespgue0302/tfg_asir2025_NEG_KSM)
-    - [Checkpoint](https://youtu.be/uNzP9oKFJXo)
+* **GRUPO 01: ...........................** - Alumno ......
+    - [Anteproyecto] .................
+    - [Repositorio del proyecto] .................
+    - [Checkpoint](https://youtu.be/......
     - [Video final](https://)
    
-* **GRUPO 02: Infraestructura de Red con Servicios Integrados (IRSI)** - Daniel García y Nazaret Postigo
-    - [Anteproyecto](https://www.notion.so/Infraestructura-de-Red-con-Servicios-Integrados-IRSI-1cd22a25046780268668e404a4fac63e)
-    - [Repositorio del proyecto](https://github.com/danielbardi04/Proyecto_Final_ASIR-IRSI)
-    - [Checkpoint](https://)
-    - [Video final](https://)
-   
-* **GRUPO 03: Sistema de Gestión de Flotas para Empresas de Transporte Local** - Jorge Zambrana y José Luis Hidalgo
-    - [Anteproyecto](https://wakeful-mandevilla-24c.notion.site/AnteProyecto-1c9eb6a2c81580d89d32fa0a7733f49f)
-    - [Repositorio del proyecto](https://github.com/oseluuu/TFG_ASIR_JLHO-JZC)
+* **GRUPO 02: ........... ** -
+    - [Anteproyecto](https://www.notion.so/.....)
+    - [Repositorio del proyecto](https://github.com/....)
     - [Checkpoint](https://)
     - [Video final](https://)
    
-* **GRUPO 04: Despliegue de una red empresarial mediante Proxmox** - Arturo Simón y Samuel Ruiz
-    - [Anteproyecto](https://www.notion.so/Ante-Proyecto-Empresa-Proxmox-1c863dead450801db5faeb80fac2a81c)
-    - [Repositorio del proyecto](https://github.com/sruisot473/Proyecto-Empresa-Proxmox)
+* **GRUPO 03: ......** - .....
+    - [Anteproyecto](
+    - [Repositorio del proyecto](https://github.com/osel.....)
     - [Checkpoint](https://)
     - [Video final](https://)
    
-* **GRUPO 05: Sistema de Gestión de Reservas para Espacios Turísticos** - Fernando González y Moisés Alameda
-    - [Anteproyecto](https://resilient-agustinia-c6b.notion.site/1c0a1e94ddde80bfa276c88400e477ba?v=1c0a1e94ddde80ad8ba5000ce30a0ba1)
-    - [Repositorio del proyecto](https://github.com/Fernandoo33/Sistema-de-Gestion-de-Reservas-para-Espacios-Turisticos)
-    - [Checkpoint](https://)
-    - [Video final](https://)
-   
-* **GRUPO 06: Sistema de seguimiento de proyectos de una empresa** - Jorge Robles y José Antonio Salinas
-    - [Anteproyecto](https://boulder-addition-1e5.notion.site/Anteproyecto-Final-Asir-1cdd923b89a180398654ea04965436d0)
-    - [Repositorio del proyecto](https://github.com/Salinas45/proyecto-final)
-    - [Checkpoint](https://)
-    - [Video final](https://)
-   
-* **GRUPO 07: Plataforma web para consultas de precios de supermercados nacionales** - Alejandro Moreno y Tania Solera
-    - [Anteproyecto](https://lively-hydrogen-001.notion.site/PROYECTO-TFG-1cd8310700d18067809fd3a587767daf)
-    - [Repositorio del proyecto](https://github.com/TaniaSoleraLucena/TFG-AhorroTotal)
-    - [Checkpoint](https://)
-    - [Video final](https://)
-
-* **GRUPO 08: CarFlex - Plataforma de Alquiler de Vehículos** - Alejandro González y Diego Juanes
-    - [Anteproyecto](https://three-croissant-db7.notion.site/CarFlex-Plataforma-de-Alquiler-de-Veh-culos-1c82b07bc14e80328702d86651dba47b)
-    - [Repositorio del proyecto](https://github.com/diegoczz/CarFlex)
-    - [Checkpoint](https://)
-    - [Video final](https://)
-   
-* **GRUPO 09: Sistema de gestión de empleados para gestionar turnos y ausencias** - Manuel Fernández y Francisco Miguel Granados
-    - [Anteproyecto](https://serious-fog-7e1.notion.site/ANTEPROYECTO-ASIR-1c97a241c44e80d9939ec0735a4ad90e)
-    - [Repositorio del proyecto](https://github.com/manuel26fa/PROASIR)
-    - [Checkpoint](https://)
-    - [Video final](https://)
-
-* **GRUPO 10: Sistema de Trazabilidad y Consulta de Orden Fabricación (STCOF)** - Miguel Ángel Serrano
-    - [Anteproyecto](https://www.notion.so/Sistema-de-Trazabilidad-y-Consulta-de-Orden-Fabricaci-n-STCOF-1cd9d2bb08f7803c8706ded8205cda62)
-    - [Repositorio del proyecto](https://github.com/Mangelxd/-STCF-)
-    - [Checkpoint](https://)
-    - [Video final](https://)
   
 ## 📝 Fechas a tener en cuenta
 * Anteproyecto: **7 de abril de 2025**
@@ -88,18 +48,12 @@ La siguiente lista cuenta con los usuarios de GitHub del profesorado:
 
 La fecha y hora de exposición del alumnado se comunicará a través de este canal. La duración de cada exposición será de **15 minutos** (10 de exposición y 5 de preguntas), dejando un margen de otros 5 minutos para el cambio. El alumnado deberá llegar con tiempo suficiente a su presentación. Aquellos alumnos que, durante el período de exposiciones, aún no hayan finalizado su FCT, asistirán al Centro únicamente para exponer su proyecto, debiendo regresar posteriormente a sus prácticas en la empresa.
 
-#### :calendar: lunes 16 de junio de 2025
+#### :calendar: Miercoles 17 de Diciembre de 2025
 
-- [ ] 08:30h **Plataforma de e-learning con evaluaciones online** - Karol Serrano y Natalia Espinosa
-- [ ] 08:50h **Infraestructura de Red con Servicios Integrados (IRSI)** - Daniel García y Nazaret Postigo
-- [ ] 09:10h **Sistema de Gestión de Flotas para Empresas de Transporte Local** - Jorge Zambrana y José Luis Hidalgo
-- [ ] 09:30h **Despliegue de una red empresarial mediante Proxmox** - Arturo Simón y Samuel Ruiz
-- [ ] 09:50h **Sistema de Gestión de Reservas para Espacios Turísticos** - Fernando González y Moisés Alameda
-- [ ] 10:10h **Sistema de seguimiento de proyectos de una empresa** - Jorge Robles y José Antonio Salinas
-- [ ] 10:30h **Plataforma web para consultas de precios de supermercados nacionales** - Alejandro Moreno y Tania Solera
-- [ ] 10:50h **Plataforma de Alquiler de Vehículos** - Alejandro González y Diego Juanes
-- [ ] 12:00h **Sistema de gestión de empleados para gestionar turnos y ausencias** - Manuel Fernández y Francisco Miguel Granados
-- [ ] 12:20h **Sistema de Trazabilidad y Consulta de Orden Fabricación (STCOF)** - Miguel Ángel Serrano
+- [ ] 08:30h **Proyecto 1** - Alumno XX
+- [ ] 08:50h **Proyecto 2** - Alumno XX
+- [ ] 09:10h **Proyecto 3** - Alumno XX
+
 
 ---
 ## Guía para la presentación - apartados de la presentación
