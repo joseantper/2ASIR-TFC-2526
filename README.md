@@ -25,9 +25,9 @@ La siguiente lista cuenta con los usuarios de GitHub del profesorado:
     - [Video final](https://)
    
 * **Alumno Juan Carlos García Calvo : ...........................** - 
-    - [Anteproyecto](https://www.notion.so/.....)
-    - [Repositorio del proyecto](https://github.com/....)
-    - [Checkpoint](https://)
+    - [Anteproyecto] (https://www.notion.so/.....)
+    - [Repositorio del proyecto] (https://github.com/....)
+    - [Checkpoint](https://youtu.be/......
     - [Video final](https://)
    
   
