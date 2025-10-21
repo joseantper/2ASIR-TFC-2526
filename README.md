@@ -45,9 +45,9 @@ La fecha y hora de exposición del alumnado se comunicará a través de este can
 
 #### :calendar: Miercoles 17 de Diciembre de 2025
 
-- [ ] 08:30h **Proyecto 1** - Alumno XX
-- [ ] 08:50h **Proyecto 2** - Alumno XX
-- [ ] 09:10h **Proyecto 3** - Alumno XX
+- [ ] 09:30h **Proyecto 1** - Alumno XX
+- [ ] 09:50h **Proyecto 2** - Alumno XX
+
 
 
 ---
