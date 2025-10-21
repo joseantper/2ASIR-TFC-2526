@@ -18,13 +18,13 @@ La siguiente lista cuenta con los usuarios de GitHub del profesorado:
 
 ## Índice a los proyectos de cada alumno
 
-* **GRUPO 01: ...........................** - Alumno ......
+* **Alumno Nicolás García Conesa: ...........................** - 
     - [Anteproyecto] .................
     - [Repositorio del proyecto] .................
     - [Checkpoint](https://youtu.be/......
     - [Video final](https://)
    
-* **GRUPO 02: ........... ** -
+* **Juan Carlos García Calvo: ........... ** -
     - [Anteproyecto](https://www.notion.so/.....)
     - [Repositorio del proyecto](https://github.com/....)
     - [Checkpoint](https://)
@@ -38,11 +38,11 @@ La siguiente lista cuenta con los usuarios de GitHub del profesorado:
    
   
 ## 📝 Fechas a tener en cuenta
-* Anteproyecto: **7 de abril de 2025**
-* Revisión (checkpoint): **4 de mayo de 2025**
-* Segunda Revisión (2º checkpoint): **5 de junio de 2025**
-* Entrega de proyecto: **13 de junio de 2025**
-* Exposiciones: **16 de junio de 2025**
+* Anteproyecto: **27 de Octubre de 2025**
+* Revisión (checkpoint): **10 de Noviembre de 2025**
+* Segunda Revisión (2º checkpoint): **24 de Noviembre de 2025**
+* Entrega de proyecto: **15 de Diciembre de 2025**
+* Exposiciones: **17 de Diciembre de 2025**
 
 ## ⏰ Cuadrante horario de las exposiciones
 
