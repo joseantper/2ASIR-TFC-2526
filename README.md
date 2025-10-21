@@ -13,29 +13,24 @@ La siguiente lista cuenta con los usuarios de GitHub del profesorado:
 * [José Antonio Pérez Alías](https://github.com/joseantper)
 * [Sergio Sánchez Martín](https://github.com/SergioSanchezMartin)
 * [José David Quero Sánchez](https://github.com/josedavid-quero)
-* [Galina Georgieva Dimitrova](https://github.com/XXXXXX)
+* [Galina Georgieva Dimitrova](https://github.com/galinadim)
 
 
 ## Índice a los proyectos de cada alumno
 
 * **Alumno Nicolás García Conesa: ...........................** - 
-    - [Anteproyecto] .................
-    - [Repositorio del proyecto] .................
+    - [Anteproyecto] (https://www.notion.so/.....)
+    - [Repositorio del proyecto] (https://github.com/....)
     - [Checkpoint](https://youtu.be/......
     - [Video final](https://)
    
-* **Juan Carlos García Calvo: ........... ** -
+* **Alumno Juan Carlos García Calvo : ...........................** - 
     - [Anteproyecto](https://www.notion.so/.....)
     - [Repositorio del proyecto](https://github.com/....)
     - [Checkpoint](https://)
     - [Video final](https://)
    
-* **GRUPO 03: ......** - .....
-    - [Anteproyecto](
-    - [Repositorio del proyecto](https://github.com/osel.....)
-    - [Checkpoint](https://)
-    - [Video final](https://)
-   
+  
   
 ## 📝 Fechas a tener en cuenta
 * Anteproyecto: **27 de Octubre de 2025**
